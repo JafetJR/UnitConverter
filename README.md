@@ -1,4 +1,4 @@
-Sample solution for the [unit-converter](https://roadmap.sh/projects/unit-converter)
+Sample solution for the [unit-converter](https://roadmap.sh/projects/unit-converter) challenge from [roadmap.sh](https://roadmap.sh/).
 
 Instructions
 
