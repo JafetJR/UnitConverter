@@ -1,4 +1,4 @@
-[project URL](https://roadmap.sh/projects/unit-converter)
+Sample solution for the [unit-converter](https://roadmap.sh/projects/unit-converter)
 
 Instructions
 
