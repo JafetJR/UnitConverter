@@ -33,6 +33,7 @@ function Converted_Unit_Btm(unit, select_opt_from, select_opt_to){
     ans.innerText = `Result of your calculation\n ${unit} = ${result}`;
 
     document.getElementById("result").style.display = "block";
+    document.getElementById("form").style.display = "none";
 }
 
 function Reset_Btn(){
@@ -41,4 +42,5 @@ function Reset_Btn(){
     conv_to.value = 0;
     //Not display the form.
     document.getElementById("result").style.display = 'none';
+    document.getElementById("form").style.display = 'block';
 }
